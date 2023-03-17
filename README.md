@@ -60,4 +60,4 @@ pagina de student si notificarea noua din parent page.
 Parent Page: panel titlu si apoi un buton care va afisa lista notificarilor primite.
 
 Login Page: Daca scriu numele complet al unui user si apas pe buton, se va deschide pagina lui, indiferent de tipul
-de user (nu am setat nicio parola, e acolo de formalitate). Daca nu exista user-ul nu se intampla nimic :(
+de user (nu am setat nicio parola specifica)
