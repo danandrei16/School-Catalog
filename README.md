@@ -59,5 +59,11 @@ pagina de student si notificarea noua din parent page.
 
 Parent Page: panel titlu si apoi un buton care va afisa lista notificarilor primite.
 
+![Screen Recording - Mar 8, 2024](https://github.com/danandrei16/School-Catalog/assets/94062909/33e4f865-2379-406f-9888-c76cb37b0df3)
+
+
 Login Page: Daca scriu numele complet al unui user si apas pe buton, se va deschide pagina lui, indiferent de tipul
-de user (nu am setat nicio parola specifica)
+de user
+
+![Screen Recording - Mar 8, 2024 (1)](https://github.com/danandrei16/School-Catalog/assets/94062909/1ad798a0-b8d5-4fba-8b5f-a7a494d1fca7)
+
